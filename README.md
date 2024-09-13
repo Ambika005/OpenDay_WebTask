@@ -1,5 +1,6 @@
 # OpenDay_WebTask
-![1000019288](https://github.com/user-attachments/assets/48db4f77-9d9b-4c8d-8092-8b7d24739e17)
-![1000019285](https://github.com/user-attachments/assets/bde2ac7e-d574-41c5-b01b-cc58edc46827)
-![1000019287](https://github.com/user-attachments/assets/daeb10c5-36c9-4225-872d-c84ed1fe7b54)
-![1000019289](https://github.com/user-attachments/assets/0948dd21-216c-402f-bec7-ab8add781e1f)
+![1000019289](https://github.com/user-attachments/assets/32678b98-38fd-42fb-8cb5-92eba9b86f9e)
+
+![1000019287](https://github.com/user-attachments/assets/ddba5963-6fc5-493a-90a7-681fbeeaf009)
+![1000019285](https://github.com/user-attachments/assets/83a3e824-c7e7-498f-9dda-70e57b94e630)
+![1000019288](https://github.com/user-attachments/assets/f17b89b9-6c3a-4bbd-afb7-403148d7c499)
